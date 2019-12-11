@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testapp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="main">Main Activity</string>
+    <string name="hint">input anything you like</string>
+    <string name="button">Button</string>
+    <string name="sub">Sub Activity</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
